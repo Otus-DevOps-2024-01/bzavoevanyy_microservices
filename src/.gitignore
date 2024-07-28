@@ -1,4 +1,4 @@
-.env
+../docker/.env
 build_info.txt
 prometheus/
 
